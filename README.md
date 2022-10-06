@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnYn05
+- 👋 Hi, I’m Amin
 - 👀 I’m interested in Coding and Weightlifting
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Blank
